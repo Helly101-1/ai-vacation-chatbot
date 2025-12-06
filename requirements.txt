@@ -1,3 +1,2 @@
 streamlit
-openai
-python-dotenv
+openai==0.28

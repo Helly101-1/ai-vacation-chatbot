@@ -1,4 +1,6 @@
 # AI Vacation Chatbot
+A Streamlit-based AI chatbot that recommends vacation destinations based on user inputs like budget, city, trip type, and travel dates.
+
 
 **Live Demo:** [Click here to try it](https://ai-vacation-chatbot-bgn7dodnywtc2oxtfelapp8.streamlit.app)
 

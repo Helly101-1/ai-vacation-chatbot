@@ -3,8 +3,9 @@
 This project is a Streamlit-based AI chatbot that recommends ideal vacation destinations and stays based on user preferences.
 It takes inputs such as budget, travel dates, trip type, and (optional) preferred city — then uses OpenAI to generate personalized, realistic travel suggestions.
 
+🔗 Live App: https://ai-vacation-chatbot-bgn7dodnywtc2oxtfelapp8.streamlit.app
+🔗 GitHub Repo: https://github.com/Helly101-1/ai-vacation-chatbot
 
-**Live Demo:** [Click here to try it](https://ai-vacation-chatbot-bgn7dodnywtc2oxtfelapp8.streamlit.app)
 
 ### 🔍 Features
 
